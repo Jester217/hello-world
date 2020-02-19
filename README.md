@@ -1,3 +1,3 @@
 # hello-world
 
-this is master
+I wanted to learn how to use GitHub, so i used this tutorial.
